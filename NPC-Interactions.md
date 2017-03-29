@@ -1,7 +1,0 @@
-#NPC Interactions#
-
-****
-
-test
-
-****
