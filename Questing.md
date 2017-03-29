@@ -1,0 +1,31 @@
+#Questing#
+
+****
+
+*For the sake of discovery and immersion, we will not be outlining the Questlines here.  We want the player to choose their Questline and try to enjoy the work put into each of them without the story or quests being spoiled.*
+
+*The Sith Questline can only be unlocked after building a Jedi Lightsaber, reaching Force Level 35 and choosing The Dark Side, and then finding the Sith Master located in Mos Eisley.  The Sith Questline is not unlocked from the beginning nor are Sith Lightsaber Blade Colors, with the exception of the very rare Prism Crystal which allows for full RGB customization.*
+
+*It is possible to denounce The Rebel Alliance and The Galactic Empire.  If you would like to join the other faction at any time, simply talk to the recruiter of the other faction in order to get their Hyperdrive and go to their headquarters.  Please note that you will be starting this new Questline from the beginning, and any progress you made in the other Questline will be erased.*
+
+?*You may also be completely neutral to all quests if you so chose.  You will have full access to all bases and will be able to take any items, ships, weapons you find.  If you attack anyone who has a faction association however, you will be attacked.  Being fully neutral also makes you unable to access the planet Ilum, use any Force Powers, and build a Lightsaber.*?
+
+****
+
+There are 4 distinct Questing Trees for the player to progress through (at the time of the 1.3 release).  They are as follows: Rebel Alliance, Galactic Empire, Jedi, Sith.  Each Questline has it's own perks, progressions, weapons, structures, vehicles, and characters.  Every Questline starts in Mos Eisley on Tatooine.  In order to begin the Rebel/Imperial Questlines, you must speak to their respective recruiters.  They can be identified by the logo hovering above their head.  They will give you the appropriate Hyperdrive, and some information tied to their respective Questline.   **In order to use that Hyperdrive, you must first find a T-16 Skyhopper at a Tatooine Triple Homestead which spawn randomly in the Tatooine desert.**  The Hyperdrive will take you to that faction's base, where you will begin your journey through the faction.  To begin the Jedi Questline, find the small house with the man in the outskirts of Mos Eisley, and you will find your way to the Jedi Master.  The Sith Questline can only be started after reaching Force Level 35 and turning to The Dark Side, building a Jedi Lightsaber, and then speaking to the Sith Lord in Mos Eisley.  **Let it be noted that you will have to build a second (Sith) Lightsaber in this Questline, see the [[ Lightsabers ]] page for more information.**
+
+Your faction affiliation will determine your interactions with other factions/npc's.  You are not considered part of a faction until you have completed the first mission associated with it.  Once you are officially associated with a faction, it's rival faction will attack you if you come into contact with them.  That means if you are a Rebel, you will be attacked by Imperials, and vice versa.
+
+****
+
+**List of Questlines:**
+
+1. **The Rebel Alliance:**  Work your way through the Rebel's ranks and train to take on The Empire.
+
+2. **The Galactic Empire:**  Become a Stormtrooper and take the fight to those Rebel scum!
+
+3. **Jedi:** Accept The Force, learn to use it's power, and build your Lightsaber.
+
+4. **Sith:** Turn away from your Jedi teachings to become one with The Dark Side.
+
+****
